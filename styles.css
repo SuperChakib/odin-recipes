@@ -1,0 +1,18 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(236, 221, 187);
+}
+
+h1 {
+  text-align: center;
+  color: brown;
+}
+
+.homepage {
+  text-align: center;
+  background-color: brown;
+}
+
+h2 {
+  color: red;
+}
